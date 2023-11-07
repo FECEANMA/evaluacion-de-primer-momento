@@ -1,0 +1,9 @@
+body{
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/859DC9ADE28CE874677BAA0A7D897EB076E0A7BA38E9F460D03089E49EE8AF7F/scale?width=1200&aspectRatio=1.78&format=jpeg);
+
+}
